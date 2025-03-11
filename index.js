@@ -4,4 +4,5 @@ btn.addEventListener('dblclick', () => {
     btn.style.display = 'color: blue';
     btn.style.display = 'background-color: purple';
     btn.style.display = 'font-size: 90px';
+    btn.style.display = 'font-family: Arial';
 })
